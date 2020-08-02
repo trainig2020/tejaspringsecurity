@@ -1,0 +1,9 @@
+com\springsecurityJWT\filter\JwtRequestFilter.class
+com\springsecurityJWT\service\MyUserDetailsService.class
+com\springsecurityJWT\HomeResource.class
+com\springsecurityJWT\util\JwtUtil.class
+com\springsecurityJWT\SecurityConfiguration.class
+com\springsecurityJWT\model\AuthenticationRequest.class
+com\springsecurityJWT\model\AuthenticationResponse.class
+com\springsecurityJWT\SpringsecurityJwtApplication.class
+com\springsecurityJWT\ServletInitializer.class

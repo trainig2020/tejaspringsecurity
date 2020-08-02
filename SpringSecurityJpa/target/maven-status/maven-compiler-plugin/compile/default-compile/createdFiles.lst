@@ -1,0 +1,6 @@
+com\SpringSecurityJpa\ServletInitializer.class
+com\SpringSecurityJpa\MyUserDetails.class
+com\SpringSecurityJpa\MyUserDetailsService.class
+com\SpringSecurityJpa\SecurityConfiguration.class
+com\SpringSecurityJpa\HomeResource.class
+com\SpringSecurityJpa\SpringSecurityJpaApplication.class

@@ -19,7 +19,7 @@ public class CustomizedConfiguration extends WebSecurityConfigurerAdapter {
 		//We can set our own configuration
 		auth.inMemoryAuthentication()
 		
-		.withUser("admin").password("ezhil").roles("ADMIN");
+		.withUser("admin").password("admin").roles("ADMIN");
 		
 	}
 	
